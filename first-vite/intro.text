@@ -6,4 +6,5 @@
 部署方式和vue2一样,兼容性处理方式一样
 
 vite 文档： https://cn.vitejs.dev/guide/ssr.html
+             https://github.com/vitejs/vite
 vue3  文档：https://v3.cn.vuejs.org/guide/migration/introduction.html#非兼容的变更
