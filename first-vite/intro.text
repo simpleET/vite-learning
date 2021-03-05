@@ -1,0 +1,9 @@
+快速的冷启动     --开发启动项目很快
+即时的模块热更新    --修改代码编译速度超级快,基本无延迟
+真正的按需编译
+
+
+部署方式和vue2一样,兼容性处理方式一样
+
+vite 文档： https://cn.vitejs.dev/guide/ssr.html
+vue3  文档：https://v3.cn.vuejs.org/guide/migration/introduction.html#非兼容的变更
